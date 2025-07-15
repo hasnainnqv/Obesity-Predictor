@@ -1,4 +1,4 @@
-# Obesity Predictor 🩺
+# Obesity Predictor
 
 **Obesity Predictor** is a machine learning project that uses the [Obesity Dataset](https://www.kaggle.com/datasets/sabainamdar2407/obesity-dataset) on Kaggle to classify individuals into different obesity levels based on lifestyle and physical attributes.
 
